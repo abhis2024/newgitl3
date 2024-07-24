@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is an assignment file. Also this is my first assignment for Git.
 This is my third commit. You can check it here.
 This is for the revert option.
+=======
+This is an assignment file
+>>>>>>> parent of 57f29f1 (after doing the reset to third commit)
