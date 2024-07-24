@@ -1,1 +1,2 @@
-This is an assignment file
+This is an assignment file. Also this is my first assignment for Git.
+This is my third commit. You can check it here.
